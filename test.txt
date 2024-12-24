@@ -1,2 +1,2 @@
 hello world!
-I am a alien
+I am a human
